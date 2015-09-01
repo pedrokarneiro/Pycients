@@ -5,6 +5,7 @@ A software to manage patients.
 - Beauty salons
 - Spa
 - Clinics (dentistry, medical, vet, quiropraxists, etc...)
+- Independent professionals
 
 ## Initial Objectives
 - Brainstorm requirements
